@@ -1,0 +1,19 @@
+.cheight{
+	height: 180px;
+}
+.carousel-item{
+	height: auto;
+	align-content: center;
+}
+.card-img-top{
+	height: 300px;
+}
+.footer{
+	padding: 2%;
+}
+
+/*.center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}*/
